@@ -1,0 +1,16 @@
+Move the text where it belongs using the delete (d) and yank(y) commands.
+Use visual-line mode to help you select the correct text.
+
+# Section 1
+
+Text for section 2!
+
+# Section 2
+
+Text for section 3! This is only a single line.
+
+# Section 3
+
+This is a paragraph of text meant for section 1. Yank it at put it in section
+1! There are a number of ways to select text like this, using "ap" for
+paragraph, "Shift-V" for visual line mode, or "3yy" to yank 3 lines at once.
